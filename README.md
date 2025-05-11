@@ -11,7 +11,7 @@ This research analyzes the impact of inconsistent global cryptocurrency regulati
 ## 📂 Contents
 
 - `Final_Paper_Draft.pdf`: The final APA-style research paper (Deliverable 4).
-- `Presentation_Slides.pptx`: A 10-minute presentation outlining key findings (Deliverable 3).
+- `Presentation_Slides.pptx`: A 14-minute presentation outlining key findings (Deliverable 3).
 - `Code/`: Python scripts and notebooks used for quantitative analysis.
 - `Data/`: Datasets related to cryptocurrency prices and regulatory events.
 
